@@ -11,7 +11,7 @@ Regards
 David
 _______________________________________________________
 
-Important geo computing organization (they don't have the follow button) are:
+Important geo computing organizations (they don't have the follow button) are:
 
  https://github.com/seg
  
