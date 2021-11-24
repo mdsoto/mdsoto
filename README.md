@@ -9,10 +9,12 @@ For any question you can write me at mdsg66@gmail.com 📫
 Regards
 
 David
+_______________________________________________________
 
 Important sites without follow are:
 
     https://github.com/softwareunderground
+    https://github.com/seg
 <!--
 **mdsoto/mdsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
