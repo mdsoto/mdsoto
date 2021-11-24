@@ -10,9 +10,9 @@ Regards
 
 David
 
-Important sites are:
+Important sites without follow are:
 
-  https://github.com/softwareunderground
+    https://github.com/softwareunderground
 <!--
 **mdsoto/mdsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
