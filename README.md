@@ -11,11 +11,13 @@ Regards
 David
 _______________________________________________________
 
-Important sites without follow are:
+Important geo computing organization (they don't have the follow button) are:
+
+ https://github.com/seg
+ 
+ https://github.com/agile-geoscience
 
  https://github.com/softwareunderground
- 
- https://github.com/seg
  
 <!--
 **mdsoto/mdsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
