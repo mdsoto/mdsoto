@@ -19,6 +19,10 @@ Some important geo computing organizations (they don't have the follow button) a
 
  https://github.com/softwareunderground
  
+ First book on Python for Earth Sciences:
+ 
+ https://link.springer.com/book/10.1007/978-3-030-78055-5
+ 
 <!--
 **mdsoto/mdsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
