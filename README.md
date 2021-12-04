@@ -19,7 +19,11 @@ Some important geo computing organizations (they don't have the follow button) a
 
  https://github.com/softwareunderground
  
- First book on Python for Earth Sciences:
+ https://github.com/pangeo-data
+ 
+ Books on Python for Earth Sciences:
+ 
+ https://link.springer.com/book/10.1007/978-3-319-55682-6
  
  https://link.springer.com/book/10.1007/978-3-030-78055-5
  
