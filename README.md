@@ -11,7 +11,7 @@ Regards
 David
 _______________________________________________________
 
-The **repositories** of some important geo computing organizations (they don't have the follow button) are:
+The repositories of some important geo computing organizations (they don't have the follow button) are:
 
  https://github.com/seg
  
@@ -21,7 +21,7 @@ The **repositories** of some important geo computing organizations (they don't h
  
  https://github.com/pangeo-data
  
- **Books** on Python for Earth Sciences:
+ Books on Python for Earth Sciences:
  
  https://link.springer.com/book/10.1007/978-3-319-55682-6
  
