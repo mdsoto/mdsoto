@@ -21,6 +21,8 @@ The repositories of some important geo computing organizations (they don't have 
  
  https://github.com/pangeo-data
  
+ https://github.com/GeostatsGuy
+ 
  Books on Python for Earth Sciences:
  
  https://link.springer.com/book/10.1007/978-3-319-55682-6
