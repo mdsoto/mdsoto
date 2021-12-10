@@ -11,7 +11,7 @@ Regards
 David
 _______________________________________________________
 
-The repositories of some important geo computing organizations (they don't have the follow button) are:
+The repositories of some important geo computing organizations or authors (some don't have the follow button) are:
 
  https://github.com/seg
  
