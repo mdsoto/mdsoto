@@ -31,9 +31,11 @@ The repositories of some important geo computing organizations or authors (some 
  
  https://link.springer.com/book/10.1007/978-3-030-78055-5
  
- A extense list of libraries and resources for Earth Sciences is provided by Maurizio Petrelli:
+ A extense list of libraries and resources for Earth Sciences is provided by Maurizio Petrelli and Robert Leckenby:
  
  https://nbviewer.org/github/petrelli-m/python_earth_science_book/blob/19ef89d44a33d53dbc73796117e7497157154643/Jupyter_Notebooks/appendix_a/resources_for_geologists.ipynb
+ 
+ https://github.com/Zabamund/awesome-open-geoscience#geochemistry
  
 <!--
 **mdsoto/mdsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
