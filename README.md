@@ -13,6 +13,20 @@ _______________________________________________________
 
 The repositories of some important geo computing organizations or authors (some don't have the follow button) are:
 
+ **Individual**
+ 
+ https://github.com/GeostatsGuy
+ 
+ https://github.com/zsylvester
+ 
+ https://github.com/andymcdgeo
+ 
+ https://github.com/Zabamund
+ 
+ https://github.com/jcamiloangarita
+ 
+ **Groups**
+ 
  https://github.com/seg
  
  https://github.com/agile-geoscience
@@ -23,9 +37,7 @@ The repositories of some important geo computing organizations or authors (some 
  
  https://github.com/equinor
  
- https://github.com/GeostatsGuy
- 
- Books on Python for Earth Sciences:
+ **Books**
  
  https://link.springer.com/book/10.1007/978-3-319-55682-6
  
