@@ -25,6 +25,8 @@ The repositories of some important geo computing organizations or authors (some 
  
  https://github.com/jcamiloangarita
  
+ https://github.com/petrelli-m
+ 
  **Groups**
  
  https://github.com/seg
@@ -43,7 +45,7 @@ The repositories of some important geo computing organizations or authors (some 
  
  https://link.springer.com/book/10.1007/978-3-030-78055-5
  
- A extense list of libraries and resources for Earth Sciences is provided by Maurizio Petrelli and Robert Leckenby:
+ **List of resources**
  
  https://nbviewer.org/github/petrelli-m/python_earth_science_book/blob/19ef89d44a33d53dbc73796117e7497157154643/Jupyter_Notebooks/appendix_a/resources_for_geologists.ipynb
  
