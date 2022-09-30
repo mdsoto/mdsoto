@@ -27,6 +27,8 @@ Here is a list of resources (repos, books, list) of some important geo computing
  
  https://github.com/petrelli-m
  
+ https://github.com/nfcd
+ 
  **Groups**
  
  https://github.com/seg
