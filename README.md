@@ -47,6 +47,8 @@ Here is a list of resources (repos, books, list) of some important geo computing
  
  https://link.springer.com/book/10.1007/978-3-030-78055-5
  
+ https://link.springer.com/book/10.1007/978-3-031-07719-7
+ 
  **Other lists**
  
  https://nbviewer.org/github/petrelli-m/python_earth_science_book/blob/19ef89d44a33d53dbc73796117e7497157154643/Jupyter_Notebooks/appendix_a/resources_for_geologists.ipynb
