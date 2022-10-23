@@ -55,6 +55,10 @@ Here is a list of resources (repos, books, list) of some important geo computing
  
  https://github.com/Zabamund/awesome-open-geoscience#geochemistry
  
+ **Events**
+ 
+ https://transform.softwareunderground.org/overview
+ 
 <!--
 **mdsoto/mdsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
