@@ -41,6 +41,8 @@ Here is a list of resources (repos, books, list) of some important geo computing
  
  https://github.com/equinor
  
+ https://github.com/cgre-aachen
+ 
  **Basic books**
  
  https://jakevdp.github.io/WhirlwindTourOfPython/
