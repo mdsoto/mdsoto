@@ -34,8 +34,6 @@ Here is a list of resources (repos, books, list) of some important geo computing
  **Groups**
  
  https://github.com/seg
- 
- https://github.com/agile-geoscience
 
  https://github.com/softwareunderground
  
