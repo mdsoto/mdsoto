@@ -42,6 +42,8 @@ Here is a list of resources (repos, books, list) of some important geo computing
  https://github.com/equinor
  
  https://github.com/cgre-aachen
+
+ https://github.com/SPWLA-ORG
  
  **Basic books**
  
