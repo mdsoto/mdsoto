@@ -8,7 +8,7 @@ For any question you can write me at mdsg66@gmail.com 📫
 
 Regards
 
-David
+M. David Soto
 _______________________________________________________
 
 Here is a list of resources (repos, books, list) of some important geo computing organizations or authors:
