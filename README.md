@@ -44,6 +44,8 @@ Here is a list of resources (repos, books, list) of some important geo computing
  https://github.com/cgre-aachen
 
  https://github.com/SPWLA-ORG
+
+ https://geo-python-site.readthedocs.io/en/latest/index.html
  
  **Basic books**
  
