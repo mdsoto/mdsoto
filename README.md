@@ -19,7 +19,7 @@ Here is a list of resources (repos, books, list) of some important geo computing
  
  https://github.com/yohanesnuwara
  
- https://github.com/nfcda
+ https://github.com/nfcd
  
  https://github.com/GeostatsGuy
  
