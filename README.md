@@ -14,6 +14,8 @@ _______________________________________________________
 Here is a list of resources (repos, books, list) of some important geo computing organizations or authors:
 
  **Individual**
+
+ https://github.com/yohanesnuwara
  
  https://github.com/GeostatsGuy
  
