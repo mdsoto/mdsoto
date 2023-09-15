@@ -15,7 +15,11 @@ Here is a list of resources (repos, books, list) of some important geo computing
 
  **Individual**
 
- https://github.com/yohanesnuwara
+ https://github.com/kevinalexandr19/manual-python-geologia
+ 
+ https://github.com/yohanesnuwar
+ 
+ https://github.com/nfcda
  
  https://github.com/GeostatsGuy
  
@@ -26,10 +30,6 @@ Here is a list of resources (repos, books, list) of some important geo computing
  https://github.com/Zabamund
  
  https://github.com/petrelli-m
- 
- https://github.com/nfcd
-
- https://github.com/kevinalexandr19/manual-python-geologia
  
  **Groups**
  
