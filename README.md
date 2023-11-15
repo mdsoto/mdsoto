@@ -20,6 +20,8 @@ Here is a list of resources (repos, books, list) of some important geo-computing
  https://github.com/kevinalexandr19/manual-python-geologia
  
  https://github.com/yohanesnuwara
+
+ https://github.com/Divyanshu-ISM
  
  https://github.com/nfcd
  
