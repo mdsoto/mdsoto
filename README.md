@@ -2,7 +2,7 @@
 
 I am Manuel David Soto, just David for friends.
 
-I am an exploration geologist and petrophysycist with over 20 years of work experience. My interests range from the interpretation of open-hole logs, logs to rock quality relation, shale plays, ... Programming, first with Matlab and now with Python (still learning 🌱), has become a passion, whether it is for teaching or for petrophysic, geology or other technical areas. Some examples are just shown here.
+I am an exploration geologist, petrophysycist, and data scientist with more than 20 years of work experience in the O&G industry. My interests range from the interpretation of open-hole logs, logs to rock quality relation, shale plays, ... Programming, first with Matlab and now with Python (still learning 🌱), has become a passion, whether it is for teaching or petrophysic, geology, or other technical areas. Some examples are just shown here.
 
 For any question, you can write me at mdsg66@gmail.com 📫 
 
