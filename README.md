@@ -50,6 +50,8 @@ Here is a list of resources (repos, books, list) of some important geo-computing
  https://github.com/SPWLA-ORG
 
  https://github.com/geo-python
+
+ https://earthlab.colorado.edu/
  
  **Basic books**
  
