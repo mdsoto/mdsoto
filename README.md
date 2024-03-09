@@ -13,7 +13,7 @@ _______________________________________________________
 
 Here is a list of resources (repos, books, list) of some important geo-computing organizations or authors:
 
- **Individual**
+ **Individuals**
 
  https://github.com/orkahub
 
@@ -41,7 +41,7 @@ Here is a list of resources (repos, books, list) of some important geo-computing
 
  https://github.com/softwareunderground
  
- https://github.com/pangeo-data
+ https://pangeo.io/index.html
  
  https://github.com/equinor
  
