@@ -68,6 +68,8 @@ Here is a list of resources (repos, books, list) of some important geo-computing
  https://link.springer.com/book/10.1007/978-3-030-78055-5
  
  https://link.springer.com/book/10.1007/978-3-031-07719-7
+
+ https://py.geocompx.org/
  
  **Other lists**
  
