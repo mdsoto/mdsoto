@@ -73,6 +73,8 @@ Here is a list of resources (repos, books, list) of some important geo-computing
 
  https://link.springer.com/book/10.1007/978-3-031-35114-3
 
+ https://pubs.geoscienceworld.org/seg/books/edited-volume/2534/Machine-Learning-for-Science-and-Engineering
+
  https://py.geocompx.org/
  
  **Other lists**
