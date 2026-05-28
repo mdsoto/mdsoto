@@ -58,6 +58,8 @@ Here is a list of resources (repos, books, list) of some important geo-computing
  https://github.com/geoscixyz
 
  https://www.gempy.org/
+
+ https://github.com/DeepWave-KAUST
  
  **Basic books**
  
