@@ -56,6 +56,8 @@ Here is a list of resources (repos, books, list) of some important geo-computing
  https://earthlab.colorado.edu/
 
  https://github.com/geoscixyz
+
+ https://www.gempy.org/
  
  **Basic books**
  
